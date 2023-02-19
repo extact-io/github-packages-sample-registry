@@ -1,14 +1,14 @@
 # github-packages-sample-registry
-> “¤‘ ƒfƒxƒƒbƒp[ƒTƒCƒg‚ÌƒuƒƒO‹L–‚Å—˜—p‚µ‚Ä‚¢‚éƒTƒ“ƒvƒ‹ƒAƒvƒŠ
+> è±†è”µãƒ‡ãƒ™ãƒ­ãƒƒãƒ‘ãƒ¼ã‚µã‚¤ãƒˆã®ãƒ–ãƒ­ã‚°è¨˜äº‹ã§åˆ©ç”¨ã—ã¦ã„ã‚‹ã‚µãƒ³ãƒ—ãƒ«ã‚¢ãƒ—ãƒª
 
-## —˜—p‚µ‚Ä‚¢‚é‹L–
-- [GitHub Packages - Maven‚ÆActions‚ğg‚Á‚½ƒIƒŒƒIƒŒˆË‘¶ƒ‰ƒCƒuƒ‰ƒŠ‚ÌŠÇ—](https://developer.mamezou-tech.com/blogs/2023/02/19/github-packages-with-maven/)
+## åˆ©ç”¨ã—ã¦ã„ã‚‹è¨˜äº‹
+- [GitHub Packages - ãƒãƒ«ãƒãƒ¬ãƒã«ã‚ˆã‚‹ãƒ©ã‚¤ãƒ–ãƒ©ãƒªç®¡ç†ã¨GitHub Actionsã¨Mavenã‚’ä½¿ã£ãŸCIã®å®Ÿè¡Œ](https://developer.mamezou-tech.com/blogs/2023/02/19/github-packages-with-maven/)
 
 ## contents
 
-|ƒŠƒ|ƒWƒgƒŠ–¼|—p“r|
+|ãƒªãƒã‚¸ãƒˆãƒªå|ç”¨é€”|
 |-----------|---|
-|[sample-parent-pom](https://github.com/extact-io/github-packages-sample-parent-pom)|ƒvƒƒWƒFƒNƒg‚Ìepom‚ğŠi”[‚·‚éƒŠƒ|ƒWƒgƒŠ|
-|[sample-console](https://github.com/extact-io/github-packages-sample-console)|sample-console.jar‚ÌƒR[ƒh‚ğŠi”[‚·‚éƒŠƒ|ƒWƒgƒŠ|
-|[sample-service](https://github.com/extact-io/github-packages-sample-service)|sample-service.jar‚ÌƒR[ƒh‚ğŠi”[‚·‚éƒŠƒ|ƒWƒgƒŠ|
-|[sample-registry](https://github.com/extact-io/github-packages-sample-registry)|ƒpƒbƒP[ƒWƒŒƒWƒXƒgƒŠ‚Æ‚µ‚Ä—˜—p‚·‚éƒŠƒ|ƒWƒgƒŠ|
+|[sample-parent-pom](https://github.com/extact-io/github-packages-sample-parent-pom)|ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®è¦ªpomã‚’æ ¼ç´ã™ã‚‹ãƒªãƒã‚¸ãƒˆãƒª|
+|[sample-console](https://github.com/extact-io/github-packages-sample-console)|sample-console.jarã®ã‚³ãƒ¼ãƒ‰ã‚’æ ¼ç´ã™ã‚‹ãƒªãƒã‚¸ãƒˆãƒª|
+|[sample-service](https://github.com/extact-io/github-packages-sample-service)|sample-service.jarã®ã‚³ãƒ¼ãƒ‰ã‚’æ ¼ç´ã™ã‚‹ãƒªãƒã‚¸ãƒˆãƒª|
+|[sample-registry](https://github.com/extact-io/github-packages-sample-registry)|ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ¬ã‚¸ã‚¹ãƒˆãƒªã¨ã—ã¦åˆ©ç”¨ã™ã‚‹ãƒªãƒã‚¸ãƒˆãƒª|
